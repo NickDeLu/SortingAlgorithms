@@ -1,6 +1,8 @@
-# SortingAlgorithms
+# Sorting Algorithms
 This pygame app visualizes bubble sort and quick sort sorting algorithms with customized UI components
 
+# Sorting Algorithms GUI
+https://user-images.githubusercontent.com/71861604/94245136-d6087380-fee7-11ea-8144-953d513d15e2.PNG
 # pygame_textinput
 Author:Nearoo
 https://github.com/Nearoo/pygame-text-input.git
