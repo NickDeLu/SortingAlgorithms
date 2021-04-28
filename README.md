@@ -1,6 +1,8 @@
 # Sorting Algorithms
 This pygame app visualizes bubble sort and quick sort sorting algorithms with customized UI components
 
+![linkedin-sorting_algorithms](https://user-images.githubusercontent.com/71861604/116338497-d03e7d80-a7a9-11eb-9e9b-923f066889df.gif)
+
 # Sorting Algorithms GUI
 https://user-images.githubusercontent.com/71861604/94245136-d6087380-fee7-11ea-8144-953d513d15e2.PNG
 # pygame_textinput
