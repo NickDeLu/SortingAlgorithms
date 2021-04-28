@@ -5,7 +5,7 @@ This pygame app visualizes bubble sort and quick sort sorting algorithms with cu
 
 # Window Resizing
 The number of columns is calculated to fit the width and height of the screen. If you want more data in your array, you can decrease the column size, or increase the screen width. 
-
+![column count and border size](https://user-images.githubusercontent.com/71861604/116339623-c0c03400-a7ab-11eb-9721-54071968c58d.gif)
 
 # pygame_textinput
 Author: Nearoo
