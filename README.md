@@ -3,8 +3,10 @@ This pygame app visualizes bubble sort and quick sort sorting algorithms with cu
 
 ![linkedin-sorting_algorithms](https://user-images.githubusercontent.com/71861604/116338497-d03e7d80-a7a9-11eb-9e9b-923f066889df.gif)
 
-# Sorting Algorithms GUI
-https://user-images.githubusercontent.com/71861604/94245136-d6087380-fee7-11ea-8144-953d513d15e2.PNG
+# Window Resizing
+The number of columns is calculated to fit the width and height of the screen. If you want more data in your array, you can decrease the column size, or increase the screen width. 
+
+
 # pygame_textinput
 Author: Nearoo
 https://github.com/Nearoo/pygame-text-input.git
